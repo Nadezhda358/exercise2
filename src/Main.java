@@ -8,6 +8,9 @@ public class Main {
     //9 5 0 4
     //Резултат:
     //[2, 4, 8, 0, 4]
+    public static void test(){
+        System.out.println("test");
+    }
     public static void findEvenNumbers(int[][] array){
         int countEven = 0;
         for (int i = 0; i < array.length; i++) {
